@@ -1,5 +1,5 @@
 # Compendium (Mundi) Tenebrarum
-¿#MuchoTexto? Lee sólo la negrita.
+¿#MuchoTexto? Lee sólo la negrita.<br>
 Esto está copiado de mi fichero en local, y todo está sujeto a cambios.<br>
 Si buscas el Compendio de Rasgos para Foundry, está [aquí](https://github.com/Kad-Caiel/CompendioMdT/).
 
